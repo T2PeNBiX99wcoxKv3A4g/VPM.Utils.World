@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5136146375e9a0a498a72a0091b40cc1, type: 3}
-  m_Name: io.github.ykysnk.utils.world
+  m_Name: io.github.ykysnk.utils
   m_EditorClassIdentifier: 
-  sourceAssembly: {fileID: 5897886265953266890, guid: 51f1c2433102ac242828d81c9e20ae6d,
+  sourceAssembly: {fileID: 5897886265953266890, guid: f78f49d6b1186ed4eb32fce8b9ae90e2,
     type: 3}

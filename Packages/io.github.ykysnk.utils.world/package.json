@@ -1,7 +1,7 @@
 {
   "name": "io.github.ykysnk.utils.world",
   "displayName": "Utils for VPM and Unity for udonshape",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Utils for VPM and Unity for udonshape",
   "gitDependencies": {},
   "vpmDependencies": {
